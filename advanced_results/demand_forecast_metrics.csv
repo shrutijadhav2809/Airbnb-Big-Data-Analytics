@@ -1,0 +1,2 @@
+model,data_type,training_days,testing_days,MAE,RMSE
+Random Forest Regressor,Synthetic demonstration data,292,73,9.39,11.44
